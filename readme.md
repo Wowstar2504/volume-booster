@@ -1,8 +1,8 @@
 # 🔊 Volume Booster
-
+<!--
 > [!CAUTION]
 > This extension is **not** on the Chrome Web Store, so it may give you warnings. Thank you for your understanding.
-
+-->
 A powerful Chromium and Firefox extension that boosts audio volume up to 650% on any webpage!
 
 ![Volume Booster](https://img.shields.io/badge/version-1.3-blue.svg)
@@ -27,7 +27,12 @@ A powerful Chromium and Firefox extension that boosts audio volume up to 650% on
 
 ## 📦 Installation
 
-### Method 1: Install from releases
+### Method 1: Install from webstore:
+|[Chrome Web Store](https://chromewebstore.google.com/detail/lpbkbecfmggoocdpkmpcebdnndfhddhg)|
+|---|
+|[Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/volume-booster-ultimate)|
+
+### Method 2: Install from releases
 
 1. **Download from the releases page**
    
@@ -61,7 +66,7 @@ A powerful Chromium and Firefox extension that boosts audio volume up to 650% on
     - Now you can use the extension!
 
 
-### Method 2: Install from Source
+### Method 3: Install from Source
 
 1. **Download or clone this repository**
    ```bash
