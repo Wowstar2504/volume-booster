@@ -118,11 +118,11 @@ resetBtn.addEventListener('click', () => {
 
 document.getElementById('supportLink').addEventListener('click', (e) => {
   e.preventDefault();
-  chrome.tabs.create({ url: 'https://github.com/wowstar2504/volume-booster/issues' });
+  chrome.tabs.create({ url: 'https://github.com/Wowstar2504/WowBooster/issues' });
 });
 
 document.getElementById('donateLink').addEventListener('click', (e) => {
   e.preventDefault();
-  chrome.tabs.create({ url: 'https://github.com/sponsors/wowstar2504' });
+  chrome.tabs.create({ url: 'https://github.com/sponsors/Wowstar2504' });
 
 });

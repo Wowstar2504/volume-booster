@@ -1,14 +1,14 @@
-# Volume Booster – Privacy Policy
+# WowBooster – Privacy Policy
 
 **Effective Date:** February 28, 2026
 
-Volume Booster respects your privacy. This extension does not collect, store, transmit, or sell any personal data.
+WowBooster respects your privacy. This extension does not collect, store, transmit, or sell any personal data.
 
 ---
 
 ## 1. Data Collection
 
-Volume Booster does **not** collect:
+WowBooster does **not** collect:
 
 - Personal information
 - Browsing history
@@ -47,7 +47,7 @@ No browsing data or personal information is accessed, read, or transmitted.
 
 ## 3. Data Sharing
 
-Volume Booster does not share any user data with third parties.  
+WowBooster does not share any user data with third parties.  
 No data is sold, transferred, or disclosed.
 
 ---

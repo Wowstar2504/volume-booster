@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Volume Booster",
-  "version": "1.3",
+  "name": "WowBooster",
+  "version": "1.4.0",
   "description": "Boost audio volume up to 650% on any webpage",
   "permissions": [
     "activeTab",

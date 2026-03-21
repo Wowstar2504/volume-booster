@@ -5,7 +5,7 @@
 -->
 A powerful Chromium and Firefox extension that boosts audio volume up to 650% on any webpage!
 
-![Volume Booster](https://img.shields.io/badge/version-1.3-blue.svg)
+![WowBooster](https://img.shields.io/badge/version-1.4.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## ⚠️ To-do
@@ -36,7 +36,7 @@ A powerful Chromium and Firefox extension that boosts audio volume up to 650% on
 
 1. **Download from the releases page**
    
-   [Link here](https://github.com/wowstar2504/volume-booster/releases/)
+   [Link here](https://github.com/Wowstar2504/WowBooster/releases/)
 
 2. **Open your browser and go to Extensons / Addons**
 
@@ -52,7 +52,7 @@ A powerful Chromium and Firefox extension that boosts audio volume up to 650% on
    - Toggle the "Developer mode" switch in the top right corner
 
 4. **Unzip the extension**
-   - Find the file "Chromium_vX.X.zip/Firefox_vX.X.zip, right click, and choose ``Extract All``
+   - Find the file "Chromium_vX.X.X.zip/Firefox_vX.X.X.zip, right click, and choose ``Extract All``
 
 5. **Load the extension**
    - Click "Load unpacked"
@@ -60,7 +60,7 @@ A powerful Chromium and Firefox extension that boosts audio volume up to 650% on
 
 6. **Pin the extension** (optional)
    - Click the puzzle piece icon in Browser toolbar
-   - Find "Volume Booster" and click the pin icon
+   - Find "WowBooster" and click the pin icon
 
 7. **That's it! You're done.**
     - Now you can use the extension!
@@ -70,7 +70,7 @@ A powerful Chromium and Firefox extension that boosts audio volume up to 650% on
 
 1. **Download or clone this repository**
    ```bash
-   git clone https://github.com/wowstar2504/volume-booster.git
+   git clone https://github.com/Wowstar2504/WowBooster.git
    ```
 
 2. **Open your browser and go to Extensions**
@@ -87,11 +87,11 @@ A powerful Chromium and Firefox extension that boosts audio volume up to 650% on
 
 4. **Load the extension**
    - Click "Load unpacked"
-   - Select the `volume-booster` folder
+   - Select the `WowBooster` folder
 
 5. **Pin the extension** (optional)
    - Click the puzzle piece icon in Browser toolbar
-   - Find "Volume Booster" and click the pin icon
+   - Find "WowBooster" and click the pin icon
 
 6. **That's it! You're done.**
     - Now you can try the extension!
@@ -117,7 +117,7 @@ Access the Settings tab to customize:
 ## 🛠️ File Structure
 
 ```
-volume-booster/
+WowBooster/
 ├── manifest.json
 ├── popup.html
 ├── popup.js
@@ -172,4 +172,4 @@ If you find this extension helpful, consider:
 
 ## 📧 Contact
 
-Contact me at [hi@22291111.xyz](mailto:hi@22291111.xyz).
+Contact me at [wowstar2504@proton.me](mailto:wowstar2504@proton.me).

@@ -12,3 +12,6 @@ build/
 # OS files
 .DS_Store
 Thumbs.db
+
+# WakaTime
+.wakatime-project
